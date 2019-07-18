@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-background-mode-fixed",
+  "name": "cordova-plugin-background-mode",
   "version": "0.7.7",
   "description": "Prevent apps from going to sleep in background. iOS fix. and Cordova 9 fix",
   "cordova": {
-    "id": "cordova-plugin-background-mode-fixed",
+    "id": "cordova-plugin-background-mode",
     "platforms": [
       "ios",
       "android",
